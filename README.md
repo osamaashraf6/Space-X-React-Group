@@ -17,7 +17,7 @@ REQUIRED SECTIONS:
 - Contributing
 - Show your support
 - Acknowledgements
-- License
+- License.
 
 After you're finished please remove all the comments and instructions!
 -->
