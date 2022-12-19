@@ -194,7 +194,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 I would like to thank all the contributors and code reviewers.
-<a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Freepik - Flaticon</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
