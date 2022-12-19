@@ -33,7 +33,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]},
+    ]
+  },
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/eslint-parser": "^7.19.1",
