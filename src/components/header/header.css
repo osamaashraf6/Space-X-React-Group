@@ -22,6 +22,7 @@
 
 .nav__container__parnav__ul {
   display: flex;
+  margin-right: 15px;
 }
 
 li {
