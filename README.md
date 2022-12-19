@@ -78,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-
+- [x] Add the rockets and missions at separate components
 - [x] Install the react-router-dom and use the version@6.👌
 - [x] Add the structure of the folders and files of the project 💯.
 - [x] Add the configureStore for the redux.
@@ -194,7 +194,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 I would like to thank all the contributors and code reviewers.
-- <a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Freepik - Flaticon.</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
