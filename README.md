@@ -81,9 +81,9 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Install the linter.👌
-- [x] Install the React using the CRA(create-react-app)💯.
-- [x] Install the redux toolkit.
+- [x] Install the react-router-dom and use the version@6.👌
+- [x] Add the structure of the folders and files of the project 💯.
+- [x] Add the configureStore for the redux.
 
 
 
