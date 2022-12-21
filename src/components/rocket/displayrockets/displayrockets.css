@@ -1,0 +1,54 @@
+.rocket-container {
+  padding: 3rem 5rem;
+}
+
+.space-below {
+  margin: 10px 0;
+}
+
+.rocket-data {
+  display: flex;
+  flex-direction: row;
+}
+
+.image {
+  height: 150px;
+  width: 180px;
+}
+
+.description {
+  margin-left: 5px;
+  width: 100%;
+}
+
+.rocket-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(60, 61, 61);
+}
+
+.bird-name {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.rocket-description {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.reserve-action {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.btnReservation {
+  width: 160px;
+  height: 35px;
+  background-color: rgb(1, 126, 254);
+  color: #fff;
+  border: none;
+}
