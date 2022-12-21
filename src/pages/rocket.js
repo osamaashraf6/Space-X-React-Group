@@ -1,8 +1,9 @@
 import React from 'react';
+import DisplayRockets from '../components/rocket/displayrockets/displayrockets';
 
 function Rocket() {
   return (
-    <div>Rocket</div>
+    <DisplayRockets />
   );
 }
 
