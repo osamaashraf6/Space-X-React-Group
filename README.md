@@ -79,8 +79,7 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Render the reversed rockets from the state.
-- [x] Filter the rockets which in the state👌
+- [x] We test this app using library from react or may be use jest to test it👌💯.
 
 
 
@@ -161,9 +160,9 @@ To run tests, run the following command:
 > Describe 1 - 3 features We will add to the project.
 
 
-- [x] We will test this app using library from react or may be use jest to test it👌💯.
-- [x] We will add the functionality of the app⤵️.
-- [x] We will use the Redux for managing the state of the app.
+
+- [x] i will enehane the code and add some features.⤵️
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
