@@ -2,6 +2,7 @@ import React from 'react';
 import { useDispatch } from 'react-redux';
 import PropTypes from 'prop-types';
 import { reserveRocket, cancelRocket } from '../../../redux/rockets/rockets';
+import './singlerocket.css';
 
 function SingleRocket({
   id, rocketName, description, images, reversed,
@@ -23,6 +24,7 @@ function SingleRocket({
           </div>
           <div className="rocket-description">
             <p>
+              {reversed && (<span className="badge">reversed</span>)}
               {description}
             </p>
           </div>
