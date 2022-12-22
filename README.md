@@ -78,9 +78,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
+
 - [x] show a "Reserved" badge and "Cancel reservation" button instead of 
 the default "Reserve rocket" (as per design)👌
 - [x] Identify which button will appear depend on the active of the rocket💯
+
 
 
 
