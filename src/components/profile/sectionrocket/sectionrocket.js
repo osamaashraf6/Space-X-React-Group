@@ -1,15 +1,17 @@
 import React from 'react';
 import './sectionrocket.css';
+import { useSelector } from 'react-redux';
 
 function SectionRocket() {
+  const rockets = useSelector((state) => state.rocket.filter((ro) => ro.reserved));
   return (
     <>
       <div className="rockets__container">
-        <h3 className="rockets__headline">My Rockets</h3>
+        {rockets.length === 0 ? (<span>No</span>) : (<h3 className="rockets__headline">My Rockets</h3>)}
         <div className="rockets">
-          <div className="rockets__tab">SectionRockets</div>
-          <div className="rockets__tab">SectionRockets</div>
-          <div className="rockets__tab">SectionRockets</div>
+          {rockets.map((rock) => (
+            <div className="rockets__tab" key={rock.id}>{rock.rocketName}</div>
+          ))}
         </div>
       </div>
     </>
