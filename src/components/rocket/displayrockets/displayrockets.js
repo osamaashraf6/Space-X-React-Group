@@ -22,6 +22,7 @@ const DisplayRockets = () => {
               rocketName={rocket.rocketName}
               description={rocket.description}
               images={rocket.images}
+              reversed={rocket.reserved}
             />
           </div>
         ))
