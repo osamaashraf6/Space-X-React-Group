@@ -1,7 +1,7 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import PropTypes from 'prop-types';
-import { reserveRocket } from '../../../redux/rockets/rockets';
+import { reserveRocket, cancelRocket } from '../../../redux/rockets/rockets';
 
 function SingleRocket({
   id, rocketName, description, images, reversed,
@@ -28,7 +28,7 @@ function SingleRocket({
           </div>
           <div className="reserve-action">
             {reversed ? (
-              <button type="button" className="btnReservation">
+              <button type="button" className="btnReservation" onClick={() => dispatch(cancelRocket(id))}>
                 cancel Rocket
               </button>
             ) : (
