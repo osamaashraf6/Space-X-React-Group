@@ -79,8 +79,11 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Render the reversed rockets from the state.
-- [x] Filter the rockets which in the state👌
+- [x] Add the functionality of the two reducers of the rockets and missions 🪄
+- [x] Fetch the data from the API for the rockets and missions.👌
+- [x] Use the react-router dom for navigating from one page to another.💯
+- [x] Render the reversed rockets from the state.⤵️
+- [x] Filter the rockets in the state👌
 
 
 
