@@ -10,7 +10,7 @@ export default function rocketsReducer(state = [], action) {
         id: action.payload[key].id,
         rocketName: action.payload[key].rocket_name,
         description: action.payload[key].description,
-        images: action.payload[key].flickr_images,
+        images: action.payload[key].flickr_images[0],
         reserved: action.payload[key].active,
       }));
     case RESERVE_ROCKET: {
