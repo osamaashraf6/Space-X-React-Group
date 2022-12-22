@@ -78,10 +78,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- [x] Add the functionality for the reversed rocket.
+- [x] Add the functionality for the cancel rocket.💯
 - [x] Identify which button will appear depend on the active of the rocket👌
-- [x] Add the structure of the folders and files of the project 💯.
-- [x] Add the configureStore for the redux.
+- [x] Finish the tasks of the reversation and cancellation of the rockets⤵️
 
 
 
