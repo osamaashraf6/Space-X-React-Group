@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { useDispatch } from 'react-redux';
-import { joinMission } from '../../../redux/missions/missions';
+import { joinMission, leaveMission } from '../../../redux/missions/missions';
 
 const MissionList = ({
   id, name, description, reserved,
@@ -18,7 +18,16 @@ const MissionList = ({
         && <p className="status">NOT A MEMBER</p>}
       </td>
       <td className="column column_button">
-
+        {reserved
+        && (
+        <button
+          type="button"
+          className="buttonLeave"
+          onClick={() => dispatch(leaveMission(id))}
+        >
+          Leave Mission
+        </button>
+        )}
         {!reserved
         && (
         <button
