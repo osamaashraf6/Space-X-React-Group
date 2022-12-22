@@ -22,11 +22,24 @@ export default function rocketsReducer(state = [], action) {
       });
       return newState;
     }
+    case CANCEL_RESERVATION: {
+      const newState = state.map((rocket) => {
+        if (rocket.id !== action.payload) {
+          return rocket;
+        }
+        return { ...rocket, reserved: false };
+      });
+      return newState;
+    }
     default:
       return state;
   }
 }
 export const reserveRocket = (id) => ({
   type: RESERVE_ROCKET,
+  payload: id,
+});
+export const cancelRocket = (id) => ({
+  type: CANCEL_RESERVATION,
   payload: id,
 });
