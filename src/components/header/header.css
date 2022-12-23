@@ -18,6 +18,7 @@
 
 .nav__container__parnav__brand__logo__img {
   margin-right: 7px;
+  filter: grayscale(1);
 }
 
 .nav__container__parnav__ul {
@@ -48,9 +49,7 @@ hr {
   margin-bottom: 0;
   margin-top: 4px;
 }
+
 .space__heading {
   color: grey;
-}
-.nav__container__parnav__brand__logo__img {
-  filter: grayscale(1);
 }
