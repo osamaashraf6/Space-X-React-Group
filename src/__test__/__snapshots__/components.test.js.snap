@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Rocket renders correctly 1`] = `
+<div
+  className="rocket-container"
+>
+  <hr
+    className="space-below"
+  />
+</div>
+`;
+
+exports[`Test Rockets renders correctly 1`] = `
+<div
+  className="rocket-container"
+>
+  <hr
+    className="space-below"
+  />
+</div>
+`;
+
+exports[`Test header component header renders correctly 1`] = `
+<nav
+  className="nav"
+  id="nav"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="nav__container__parnav"
+    >
+      <div
+        className="nav__container__parnav__brand"
+      >
+        <a
+          className="nav__container__parnav__brand__logo"
+          href="#logo"
+        >
+          <img
+            alt="logo-top"
+            className="nav__container__parnav__brand__logo__img"
+            src="planet2.png"
+          />
+          <h3>
+            Space Traveler's Hub
+          </h3>
+        </a>
+      </div>
+      <ul
+        className="nav__container__parnav__ul"
+      >
+        <li>
+          <a
+            className=""
+            href="/rocket"
+            onClick={[Function]}
+          >
+            Rockets
+          </a>
+        </li>
+        <li>
+          <a
+            className=""
+            href="/mission"
+            onClick={[Function]}
+          >
+            mission
+          </a>
+        </li>
+        <hr />
+        <li>
+          <a
+            className=""
+            href="/profile"
+            onClick={[Function]}
+          >
+            profile
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+`;
+
+exports[`cdf 1`] = `
+<div
+  className="rocket-data"
+>
+  <div>
+    <picture>
+      <img
+        className="image"
+      />
+    </picture>
+  </div>
+  <div
+    className="description"
+  >
+    <div
+      className="rocket-name"
+    >
+      <p
+        className="bird-name"
+      />
+    </div>
+    <div
+      className="rocket-description"
+    >
+      <p />
+    </div>
+    <div
+      className="reserve-action"
+    >
+      <button
+        className="btnReservation"
+        onClick={[Function]}
+        type="button"
+      >
+        Reserve Rocket
+      </button>
+    </div>
+  </div>
+</div>
+`;
