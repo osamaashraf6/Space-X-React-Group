@@ -1,0 +1,14 @@
+.badge {
+  background-color: rgb(25 130 130);
+  display: inline-block;
+  border-radius: 5px;
+  padding: 4px 10px;
+  color: #fff;
+  margin: 10px;
+}
+
+.btnReservation.cancel {
+  background-color: #fff;
+  color: red;
+  border: 1px solid red;
+}

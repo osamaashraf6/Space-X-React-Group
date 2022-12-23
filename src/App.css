@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.profiles {
+  margin-top: 20px;
+  display: flex;
+}
+
+body {
+  overflow-x: hidden;
+}
