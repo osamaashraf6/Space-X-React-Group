@@ -12,7 +12,7 @@ function Header() {
             <div className="nav__container__parnav__brand">
               <a href="#logo" className="nav__container__parnav__brand__logo">
                 <img alt="logo-top" src={logo} className="nav__container__parnav__brand__logo__img" />
-                <h3>Space Traveler&#39;s Hub</h3>
+                <h3 className="space__heading">Space Traveler&#39;s Hub</h3>
               </a>
             </div>
             <ul className="nav__container__parnav__ul">
