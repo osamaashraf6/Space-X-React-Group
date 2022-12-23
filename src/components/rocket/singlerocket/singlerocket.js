@@ -45,11 +45,5 @@ function SingleRocket({
     </>
   );
 }
-// SingleRocket.propTypes = {
-//   id: PropTypes.number.isRequired,
-//   reversed: PropTypes.bool.isRequired,
-//   rocketName: PropTypes.string.isRequired,
-//   description: PropTypes.string.isRequired,
-//   images: PropTypes.arrayOf(PropTypes.oneOfType([PropTypes.string])).isRequired,
-// };
+
 export default SingleRocket;
