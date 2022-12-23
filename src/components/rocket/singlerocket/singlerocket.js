@@ -31,7 +31,7 @@ function SingleRocket({
           </div>
           <div className="reserve-action">
             {reversed ? (
-              <button type="button" className="btnReservation" onClick={() => dispatch(cancelRocket(id))}>
+              <button type="button" className="btnReservation cancel" onClick={() => dispatch(cancelRocket(id))}>
                 cancel Rocket
               </button>
             ) : (
