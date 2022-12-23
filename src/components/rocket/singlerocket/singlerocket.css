@@ -6,7 +6,8 @@
   color: #fff;
   margin: 10px;
 }
-.btnReservation.cancel{
+
+.btnReservation.cancel {
   background-color: #fff;
   color: red;
   border: 1px solid red;
