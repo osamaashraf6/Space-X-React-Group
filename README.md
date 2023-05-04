@@ -1,39 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-
-<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-
-  <br/>
-
-  <h3><b>Space X</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -59,7 +26,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Space X] <a name="about-project"></a>
 
-> A web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.👌 
+- A web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.👌 
 
 
 
@@ -67,11 +34,13 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
   <ul>
+   <li>HTML</li>
+    <li>CSS</li>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
@@ -168,11 +137,11 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features We will add to the project.
 
 
 
-- [x] i will enehane the code and add some features.⤵️
+
+- [x] I will enehane the code and add some features.⤵️
 
 
 
@@ -192,7 +161,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project you can give me a star 😊 just to prove my app that it is useful for everyone and the users can benefit from it 💯.
+- If you like this project you can give me a star 😊 just to prove my app that it is useful for everyone and the users can benefit from it 💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -203,7 +172,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 I would like to thank all the contributors and code reviewers.
-- <a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Freepik - Flaticon.</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -211,8 +180,5 @@ I would like to thank all the contributors and code reviewers.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](https://github.com/osamaashraf6/Space-X-React-Group/blob/master/LICENCE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
