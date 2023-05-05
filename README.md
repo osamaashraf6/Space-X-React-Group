@@ -26,7 +26,7 @@
 
 # 📖 [Space X] <a name="about-project"></a>
 
-- A web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.👌 
+- A Space-X-React-Group app built with React, Redux, CSS, and HTML. Users can view information about the latest Space-X launches, rockets, and missions. The app also features a search function, allowing users to search for information about specific launches, rockets, or missions.👌 
 
 
 
